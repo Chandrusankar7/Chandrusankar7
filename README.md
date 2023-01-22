@@ -4,7 +4,7 @@
 
 -I’m currently learning M.Tech in VLSI
 
--I’m looking to collaborate on Designn and timing analysis tools
+-I’m looking to collaborate on Design and timing analysis tools
 
 <!---
 Chandrusankar7/Chandrusankar7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
