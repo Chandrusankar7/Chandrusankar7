@@ -2,7 +2,7 @@
 
 -I’m interested in Semiconductors
 
--I’m currently learning M.Tech in VLSI
+-I’m currently pursuing M.Tech in VLSI
 
 -I’m looking to collaborate on Design and timing analysis tools
 
