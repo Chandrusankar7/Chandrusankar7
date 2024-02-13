@@ -2,9 +2,11 @@
 
 -I’m interested in Semiconductors
 
--I’m currently pursuing M.Tech in VLSI
+-I've complted masters in VLSI Design
 
--I’m looking to collaborate on Design and timing analysis tools
+-Worked on FPGA related industry projects
+
+-I’m looking to collaborate on Design , verification and timing analysis tools
 
 <!---
 Chandrusankar7/Chandrusankar7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
